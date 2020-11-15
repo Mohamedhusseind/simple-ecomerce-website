@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f9f3658-0d45-4129-a02c-3b766578c2b0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/controller/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/controller/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/controller/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kBhX3WeDrT6fxze6lM3Ky7eIHQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controller/product" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CRM\controller\product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CRM\controller\class" />
+      <recent name="C:\xampp\htdocs\CRM\controller\category" />
+      <recent name="C:\xampp\htdocs\CRM\controller\product" />
+      <recent name="C:\xampp\htdocs\CRM\controller\database" />
+      <recent name="C:\xampp\htdocs\CRM\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f9f3658-0d45-4129-a02c-3b766578c2b0" name="Default Changelist" comment="" />
+      <created>1605179927577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605179927577</updated>
+      <workItem from="1605179929135" duration="14669000" />
+      <workItem from="1605224045415" duration="5136000" />
+      <workItem from="1605259126466" duration="35027000" />
+      <workItem from="1605350354938" duration="32118000" />
+      <workItem from="1605395626516" duration="12177000" />
+      <workItem from="1605433566435" duration="7101000" />
+      <workItem from="1605441907561" duration="12200000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
